@@ -10,3 +10,31 @@
 4- > introducao.txt
    > desenvolvimento.txt
    > conclusao.txt
+
+5- git add .
+   git commit -m "commit inicial"
+
+6- git branch desenvolvimento
+   git branch revisao
+
+7- git checkout desenvolvimento
+
+8- git add .
+   git commit -m "insere linhas nos arquivos"
+
+9- git checkout revisao
+
+10- git add .
+    git commit -m "insere linhas nos arquivos revisão"
+
+11- git chevkout desenvolvimento
+12- git merge revisao
+13- git add .
+    git commit -m "commit merge desenvolvimento revisão"
+
+14- git log
+    git log --oneline
+    git log --graph --online --all
+    git checkout master
+    git add .
+    git commit -m "prints do git log"
