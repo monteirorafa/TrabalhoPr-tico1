@@ -28,4 +28,6 @@
     git commit -m "insere linhas nos arquivos revisão"
 
 11- git chevkout desenvolvimento
-    git merge revisao
+12- git merge revisao
+13- git add .
+    git commit -m "commit merge desenvolvimento revisão"
