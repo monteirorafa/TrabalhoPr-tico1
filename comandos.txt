@@ -21,3 +21,11 @@
 
 8- git add .
    git commit -m "insere linhas nos arquivos"
+
+9- git checkout revisao
+
+10- git add .
+    git commit -m "insere linhas nos arquivos revisão"
+
+11- git chevkout desenvolvimento
+    git merge revisao
