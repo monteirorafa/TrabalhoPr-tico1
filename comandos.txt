@@ -16,3 +16,8 @@
 
 6- git branch desenvolvimento
    git branch revisao
+
+7- git checkout desenvolvimento
+
+8- git add .
+   git commit -m "insere linhas nos arquivos"
