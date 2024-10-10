@@ -38,3 +38,8 @@
     git checkout master
     git add .
     git commit -m "prints do git log"
+
+15- git merge desenvolvimento
+    git log --graph --online --all
+    git add .
+    git commit -m "add printFinal"
